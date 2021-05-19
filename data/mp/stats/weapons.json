@@ -2049,7 +2049,7 @@
         "weight": 5000
     },
     "Howitzer-Incendiary": {
-        "buildPoints": 1000,
+        "buildPoints": 1100,
         "buildPower": 300,
         "damage": 200,
         "designable": 1,
@@ -2076,7 +2076,7 @@
         "muzzleGfx": "FxCan75m.PIE",
         "name": "Incendiary Howitzer",
         "numExplosions": 1,
-        "periodicalDamage": 28,
+        "periodicalDamage": 150,
         "periodicalDamageRadius": 192,
         "periodicalDamageTime": 60,
         "periodicalDamageWeaponClass": "HEAT",
@@ -2096,9 +2096,9 @@
         "weight": 10000
     },
     "Howitzer03-Rot": {
-        "buildPoints": 1600,
-        "buildPower": 400,
-        "damage": 120,
+        "buildPoints": 1200,
+        "buildPower": 300,
+        "damage": 200,
         "designable": 1,
         "effectSize": 200,
         "explosionWav": "lrgexpl.ogg",
@@ -2124,7 +2124,7 @@
         "name": "Hellstorm",
         "numExplosions": 1,
         "radius": 192,
-        "radiusDamage": 120,
+        "radiusDamage": 200,
         "radiusLife": 10,
         "recoilValue": 250,
         "shortHit": 40,
@@ -2139,7 +2139,7 @@
     "Howitzer105Mk1": {
         "buildPoints": 1000,
         "buildPower": 250,
-        "damage": 150,
+        "damage": 200,
         "designable": 1,
         "effectSize": 250,
         "explosionWav": "lrgexpl.ogg",
@@ -2165,7 +2165,7 @@
         "name": "Howitzer",
         "numExplosions": 1,
         "radius": 192,
-        "radiusDamage": 150,
+        "radiusDamage": 200,
         "radiusLife": 10,
         "recoilValue": 250,
         "shortHit": 40,
@@ -3411,8 +3411,8 @@
         "weight": 5000
     },
     "Mortar3ROTARYMk1": {
-        "buildPoints": 900,
-        "buildPower": 300,
+        "buildPoints": 800,
+        "buildPower": 200,
         "damage": 60,
         "designable": 1,
         "effectSize": 100,
